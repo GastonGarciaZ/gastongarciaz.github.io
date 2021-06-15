@@ -84,37 +84,9 @@ author:
   avatar           : "foto3.4bn.jpeg"
   bio              : "Economist. UNLP - UdeSA"
   location         : "La Plata, Buenos Aires. Argentina"
-  employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            : "gzavaleta@udesa.edu.ar"
   github           : "GastonGarciaZ"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : ""
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "GarciaZGaston"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
