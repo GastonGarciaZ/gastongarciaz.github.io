@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Economist. Teaching assistant at [Universidad Nacional de la Plata]. Mastering in Economics at [Universidad de San Andrés] (www.udesa.edu.ar)
+Economist. Teaching assistant at Universidad Nacional de la Plata (www.unlp.edu.ar). Mastering in Economics at Universidad de San Andrés (www.udesa.edu.ar)
 
 I completed my degree in Economics at Universidad Nacional de La Plata - Buenos Aires 2020.
 
